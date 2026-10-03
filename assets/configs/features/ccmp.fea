@@ -1,0 +1,11 @@
+# U+0251 plus a combining tone mark. Keep the original Unicode text intact
+# while using pixel-fitted glyphs at each font size and width mode.
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+feature ccmp {
+  sub u0251 u0304 by alpha.macron;
+  sub u0251 u0301 by alpha.acute;
+  sub u0251 u030C by alpha.caron;
+  sub u0251 u0300 by alpha.grave;
+} ccmp;

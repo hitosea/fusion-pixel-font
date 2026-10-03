@@ -187,6 +187,10 @@ class FontBuildContext:
 
         builder.opentype_config.features = opentype.FeatureProgram([
             opentype.FeatureFile(
+                path_define.CONFIGS_FEATURES_DIR.joinpath('ccmp.fea'),
+                include_dir=path_define.CONFIGS_FEATURES_DIR,
+            ),
+            opentype.FeatureFile(
                 path_define.CONFIGS_FEATURES_DIR.joinpath('calt.fea'),
                 include_dir=path_define.CONFIGS_FEATURES_DIR,
             ),

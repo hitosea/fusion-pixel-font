@@ -5,7 +5,7 @@
 | 属性 | 值 |
 |---|---|
 | 版本号 | 2026.09.25 |
-| 字符总数 | 25313 |
+| 字符总数 | 25318 |
 
 ## Unicode 字符统计
 
@@ -17,6 +17,8 @@ Unicode 版本：18.0.0
 | 0080 ~ 00FF | Latin-1 Supplement | 拉丁字母-1 增补 | 95 / 95 | 0 | 100.00% 🚩 |
 | 0100 ~ 017F | Latin Extended-A | 拉丁字母扩充-A | 126 / 128 | 2 | 98.44% 🚧 |
 | 0180 ~ 024F | Latin Extended-B | 拉丁字母扩充-B | 115 / 208 | 93 | 55.29% 🚧 |
+| 0250 ~ 02AF | IPA Extensions | 国际音标扩充 | 1 / 96 | 95 | 1.04% 🚧 |
+| 0300 ~ 036F | Combining Diacritical Marks | 组合附加符号 | 4 / 112 | 108 | 3.57% 🚧 |
 | 1E00 ~ 1EFF | Latin Extended Additional | 拉丁字母扩充附加 | 1 / 256 | 255 | 0.39% 🚧 |
 | 2000 ~ 206F | General Punctuation | 通用标点 | 36 / 84 | 48 | 42.86% 🚧 |
 | 2070 ~ 209F | Superscripts and Subscripts | 上标与下标 | 42 / 46 | 4 | 91.30% 🚧 |

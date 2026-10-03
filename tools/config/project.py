@@ -14,8 +14,8 @@ MANUFACTURER = 'TakWolf'
 DESIGNER = 'TakWolf'
 DESIGNER_URL = 'https://takwolf.com'
 
-HOMEPAGE_URL = 'https://fusion-pixel-font.takwolf.com'
-GITHUB_URL = 'https://github.com/TakWolf/fusion-pixel-font'
+HOMEPAGE_URL = 'https://hitosea.github.io/fusion-pixel-font'
+GITHUB_URL = 'https://github.com/hitosea/fusion-pixel-font'
 DISCORD_URL = 'https://discord.gg/3GKtPKtjdU'
 
 COPYRIGHT_YEAR = 2022

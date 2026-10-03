@@ -10,6 +10,8 @@
 
 开源的泛拉丁与泛中日韩像素字体，黑体风格。
 
+本仓库是 [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) 的派生版本，新增 `ɑ ɑ̄ ɑ́ ɑ̌ ɑ̀` 支持。原作者及许可证保留不变。
+
 该项目是 [「方舟像素字体」](https://github.com/TakWolf/ark-pixel-font) 的临时过渡方案，以「方舟像素字体」作为基础字形和度量参数，并使用其他可适配的同尺寸字体补充字形。由于字体由多个来源拼合而成，因此以「缝合」命名。
 
 Logo 捏他自 [《游戏王》](https://zh.wikipedia.org/wiki/%E9%81%8A%E6%88%B2%E7%8E%8B) 中的 [「融合」](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4837&request_locale=ja) 魔法卡卡图。
@@ -26,7 +28,7 @@ Logo 捏他自 [《游戏王》](https://zh.wikipedia.org/wiki/%E9%81%8A%E6%88%B
 
 ## 预览
 
-[点击此链接](https://fusion-pixel-font.takwolf.com/playground.html) 实时预览字体效果。
+[点击此链接](https://hitosea.github.io/fusion-pixel-font/playground.html) 实时预览包含声调补丁的字体效果。
 
 ### 8 像素
 
@@ -86,7 +88,13 @@ Logo 捏他自 [《游戏王》](https://zh.wikipedia.org/wiki/%E9%81%8A%E6%88%B
 
 ## 下载
 
-[点击此链接](https://github.com/TakWolf/fusion-pixel-font/releases) 下载最新版本。
+### ɑ 声调补丁
+
+支持 `ɑ ɑ̄ ɑ́ ɑ̌ ɑ̀`，覆盖三个字号、两种宽度模式及全部语言版本。
+本地构建、Demo 测试方法和格式限制见 [ɑ 声调补丁说明](docs/alpha-tones.md)。
+本补丁尚未包含在下方链接指向的上游发行版中。
+
+[上游发行版](https://github.com/TakWolf/fusion-pixel-font/releases) 不包含本仓库的声调补丁；补丁版字体目前可按上面的说明从源码构建。
 
 ## 程序依赖
 
