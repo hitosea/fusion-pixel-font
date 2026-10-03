@@ -94,7 +94,7 @@ Logo 捏他自 [《游戏王》](https://zh.wikipedia.org/wiki/%E9%81%8A%E6%88%B
 本地构建、Demo 测试方法和格式限制见 [ɑ 声调补丁说明](docs/alpha-tones.md)。
 本补丁尚未包含在下方链接指向的上游发行版中。
 
-[上游发行版](https://github.com/TakWolf/fusion-pixel-font/releases) 不包含本仓库的声调补丁；补丁版字体目前可按上面的说明从源码构建。
+[本仓库 Release](https://github.com/hitosea/fusion-pixel-font/releases/tag/2026.09.25) 提供补丁版字体包；上游发行版不包含本仓库的声调补丁。
 
 ## 程序依赖
 
