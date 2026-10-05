@@ -4,7 +4,7 @@
 
 [![License OFL](https://img.shields.io/badge/license-OFL--1.1-orange?style=flat-square)](LICENSE-OFL)
 [![License MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE-MIT)
-[![Releases](https://img.shields.io/github/v/release/TakWolf/fusion-pixel-font?style=flat-square)](https://github.com/TakWolf/fusion-pixel-font/releases)
+[![Releases](https://img.shields.io/github/v/release/hitosea/fusion-pixel-font?style=flat-square)](https://github.com/hitosea/fusion-pixel-font/releases)
 [![Discord](https://img.shields.io/badge/discord-像素字体工房-4E5AF0?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/3GKtPKtjdU)
 [![QQ Group](https://img.shields.io/badge/QQ群-像素字体工房-brightgreen?style=flat-square&logo=qq&logoColor=white)](https://qm.qq.com/q/jPk8sSitUI)
 
@@ -94,7 +94,7 @@ Logo 捏他自 [《游戏王》](https://zh.wikipedia.org/wiki/%E9%81%8A%E6%88%B
 本地构建、Demo 测试方法和格式限制见 [ɑ 声调补丁说明](docs/alpha-tones.md)。
 本补丁尚未包含在下方链接指向的上游发行版中。
 
-[本仓库 Release](https://github.com/hitosea/fusion-pixel-font/releases/tag/2026.09.25) 提供补丁版字体包；上游发行版不包含本仓库的声调补丁。
+[本仓库 Release](https://github.com/hitosea/fusion-pixel-font/releases/tag/2026.10.05) 提供补丁版字体包；上游发行版不包含本仓库的补丁字形。
 
 ## 程序依赖
 

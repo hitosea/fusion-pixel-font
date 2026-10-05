@@ -1,5 +1,5 @@
 
-VERSION = '2026.09.25'
+VERSION = '2026.10.05'
 
 NAME = 'Fusion Pixel Font'
 NAME_ZH = '缝合像素字体'
