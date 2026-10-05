@@ -14,7 +14,7 @@ PATCHED_BY_SCOPE = {
 }
 
 
-@pytest.mark.parametrize('font_size', (10, 12))
+@pytest.mark.parametrize('font_size', (8, 10, 12))
 @pytest.mark.parametrize('glyph_scope', options.GLYPH_SCOPES)
 def test_missing_glyph_patches_are_loaded(
         load_cmap_context: Callable[[FontSize, GlyphScope], CmapContext],
@@ -23,6 +23,10 @@ def test_missing_glyph_patches_are_loaded(
 ) -> None:
     context = load_cmap_context(font_size, glyph_scope)
     expected = PATCHED_BY_SCOPE[glyph_scope]
+    if font_size == 8 and glyph_scope == 'common':
+        expected = '灬纟饣㇏讷峤曈鹂鹭爫犭礻氵'
+    if font_size == 8 and glyph_scope != 'common':
+        expected = '›−≠ɡˉˊˇˋếềḿ'
     if font_size == 10 and glyph_scope == 'common':
         expected = '灬纟饣㇏讷峤曈鹂爫犭礻'
     if font_size == 12 and glyph_scope == 'common':
