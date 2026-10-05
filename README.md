@@ -10,7 +10,7 @@
 
 开源的泛拉丁与泛中日韩像素字体，黑体风格。
 
-本仓库是 [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) 的派生版本，新增 `ɑ ɑ̄ ɑ́ ɑ̌ ɑ̀` 支持。原作者及许可证保留不变。
+本仓库是 [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) 的派生版本，新增拼音字母、数学符号、界面符号和部分学习内容字形支持，包括 `ɑ ɑ̄ ɑ́ ɑ̌ ɑ̀ › − ≠ ㇏ 灬 纟 饣 讷` 等。原作者及许可证保留不变。
 
 该项目是 [「方舟像素字体」](https://github.com/TakWolf/ark-pixel-font) 的临时过渡方案，以「方舟像素字体」作为基础字形和度量参数，并使用其他可适配的同尺寸字体补充字形。由于字体由多个来源拼合而成，因此以「缝合」命名。
 
